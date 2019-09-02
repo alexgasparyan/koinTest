@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorRed">#E97A6E</color>
+    <color name="colorRedLight">#EE948A</color>
+    <color name="colorRedLightly">#F5BCB6</color>
+    <color name="colorRedLightest">#FCEAE8</color>
+    <color name="colorRedSuperLight">#FEF7F6</color>
+    <color name="colorBlue">#4A80FF</color>
+    <color name="colorBlueLight">#6D9BFF</color>
+    <color name="colorBlueLightly">#A4C0FF</color>
+    <color name="colorBlueLightest">#F1F9FB</color>
+    <color name="colorBlueSuperLight">#F8FCFD</color>
+    <color name="colorBlack">#333333</color>
+    <color name="colorBlackLight">#4C4E55</color>
+    <color name="colorBlackLightly">#A5A6B1</color>
+    <color name="colorBlackLightest">#CED0D4</color>
+    <color name="colorBlackSuperLight">#F7F7F8</color>
+    <color name="colorTextInactive">#cacacf</color>
+    <color name="colorRedSnackbar">#dd3624</color>
+    <color name="colorYellowSnackbar">#f4ba42</color>
+    <color name="colorGreenSnackbar">#8bce41</color>
+    <color name="colorBlackSnackbar">@color/colorBlackLight</color>
+
+</resources>
