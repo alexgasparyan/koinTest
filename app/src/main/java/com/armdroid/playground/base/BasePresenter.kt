@@ -7,7 +7,7 @@ import org.koin.core.inject
 
 abstract class BasePresenter : KoinComponent, BaseContract.Presenter {
 
-    //this is fine, test should if fail if BeanDefinition does not exist
+    //this is fine, test should fail if BeanDefinition does not exist
     val repositoryByGet = get<Repository>()
 
     //this is dangerous, test cannot decide if Repository can be provided or not as inject is lazy.
